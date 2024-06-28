@@ -1,4 +1,4 @@
-AfricaAI: Empowering Citizens through AI-Driven Transparency
+**AfricaAI: Empowering Citizens through AI-Driven Transparency**
 
 Welcome to the AfricaAI repository! This open-source project is a collaborative effort to build a powerful AI-powered tool that provides Africa’s citizens with accessible and accurate information on their country's laws, regulations, budgets, and financial reports.
 
